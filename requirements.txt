@@ -1,0 +1,4 @@
+pandas==2.0.2
+PyDrive2==1.16.1
+pytube==12.1.0
+
